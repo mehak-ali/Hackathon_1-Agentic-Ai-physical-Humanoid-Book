@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://physical-humanoid-book.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'physical-humanoid-book', // Usually your GitHub org/user name.
+  projectName: 'physical-humanoid-book.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   
@@ -52,7 +52,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://msfazila.github.io/Hackathon_1-Humanoid_Physical_AI_Book/',
+            'https://github.com/physical-humanoid-book/physical-humanoid-book.github.io/tree/main/',
         },
         blog: false, // Optional: disable the blog plugin
         theme: {
