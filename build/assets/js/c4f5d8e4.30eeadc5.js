@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_book=globalThis.webpackChunkmy_book||[]).push([[634],{192:(o,t,u)=>{u.r(t),u.d(t,{default:()=>a});u(6540);var n=u(6347),s=u(4848);function a(){return(0,s.jsx)(n.rd,{to:"/constitution"})}}}]);
