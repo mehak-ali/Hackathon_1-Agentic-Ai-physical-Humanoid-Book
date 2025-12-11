@@ -29,6 +29,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mehak-ali', // Usually your GitHub org/user name.
   projectName: 'Hackathon_1-Agentic-Ai-physical-Humanoid-Book', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'ignore',
   
