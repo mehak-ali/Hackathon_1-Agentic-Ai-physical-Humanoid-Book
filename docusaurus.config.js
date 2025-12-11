@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'physical humanoid book',
+  title: 'Physical Humanoid Book',
   tagline: 'using docusaurus and context7 mcp',
   favicon: 'img/favicon.ico',
 
@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://physical-humanoid-book.github.io',
+  url: 'https://mehak-ali.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'physical-humanoid-book', // Usually your GitHub org/user name.
-  projectName: 'physical-humanoid-book.github.io', // Usually your repo name.
+  organizationName: 'mehak-ali', // Usually your GitHub org/user name.
+  projectName: 'Hackathon_1-Agentic-Ai-physical-Humanoid-Book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   
@@ -47,12 +47,12 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          routeBasePath: '/',
+          routeBasePath: 'docs',
           exclude: ['**/node_modules/**'],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/physical-humanoid-book/physical-humanoid-book.github.io/tree/main/',
+            'https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/',
         },
         blog: false, // Optional: disable the blog plugin
         theme: {
@@ -71,7 +71,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
             navbar: {
-              title: 'physical humanoid book',
+              title: 'Physical Humanoid Book',
               logo: {
                 alt: 'My Site Logo',
                 src: 'img/logo.svg',
@@ -79,15 +79,9 @@ const config = {
               items: [
                 {
                   type: 'doc',
-                  docId: 'constitution',
+                  docId: 'the-embodied-mind/lesson1-bits-to-atoms',
                   position: 'left',
-                  label: 'Constitution',
-                },
-                {
-                  type: 'doc',
-                  docId: 'physical-ai-book/lesson1-bits-to-atoms',
-                  position: 'left',
-                  label: 'Physical AI Book',
+                  label: 'Start Reading',
                 },
               ],
             },
@@ -98,8 +92,8 @@ const config = {
                   title: 'Docs',
                   items: [
                     {
-                      label: 'Constitution',
-                      to: '/constitution',
+                      label: 'Start Reading',
+                      to: '/docs/the-embodied-mind/lesson1-bits-to-atoms',
                     },
                   ],
                 },
