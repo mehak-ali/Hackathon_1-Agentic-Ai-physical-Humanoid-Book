@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "plan",
+              "path": "/docs/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "specification",
+              "path": "/docs/specification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "specs/book-outline/plan",
+              "path": "/docs/specs/book-outline/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "specs/book-outline/tasks",
+              "path": "/docs/specs/book-outline/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "specs/physical-ai-book/plan",
+              "path": "/docs/specs/physical-ai-book/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "specs/physical-ai-book/spec",
+              "path": "/docs/specs/physical-ai-book/spec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "specs/physical-ai-book/tasks",
+              "path": "/docs/specs/physical-ai-book/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tasks",
+              "path": "/docs/tasks",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

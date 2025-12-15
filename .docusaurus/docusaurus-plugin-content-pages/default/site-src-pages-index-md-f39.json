@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Home",
+  "description": "This book is a guide to building a physical humanoid AI.",
+  "frontMatter": {
+    "title": "Home"
+  },
+  "unlisted": false
+}

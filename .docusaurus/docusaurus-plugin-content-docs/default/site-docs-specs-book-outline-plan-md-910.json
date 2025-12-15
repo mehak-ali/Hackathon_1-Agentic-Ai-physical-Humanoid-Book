@@ -1,0 +1,24 @@
+{
+  "id": "specs/book-outline/plan",
+  "title": "Book Outline Plan",
+  "description": "1. Goal Setting",
+  "source": "@site/docs/specs/book-outline/plan.md",
+  "sourceDirName": "specs/book-outline",
+  "slug": "/specs/book-outline/plan",
+  "permalink": "/docs/specs/book-outline/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/book-outline/plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI Book Specification",
+    "permalink": "/docs/specification"
+  },
+  "next": {
+    "title": "Book Outline Tasks",
+    "permalink": "/docs/specs/book-outline/tasks"
+  }
+}

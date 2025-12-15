@@ -1,0 +1,20 @@
+{
+  "id": "index",
+  "title": "Physical AI Book Constitution",
+  "description": "Preamble",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Physical AI Book Plan",
+    "permalink": "/docs/plan"
+  }
+}

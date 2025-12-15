@@ -1,0 +1,34 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+/* Styles for the feature cards */
+.col--4 {
+  padding: 1rem;
+}
+
+.col--4 .text--center {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  height: 100%; /* Ensure cards have equal height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.col--4 .text--center:hover {
+  background-color: #f0f0f0;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}

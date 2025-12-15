@@ -1,0 +1,157 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Physical AI Book Constitution",
+        "href": "/docs/",
+        "docId": "index",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Physical AI Book Plan",
+        "href": "/docs/plan",
+        "docId": "plan",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Physical AI Book Specification",
+        "href": "/docs/specification",
+        "docId": "specification",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "specs",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "book-outline",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Book Outline Plan",
+                "href": "/docs/specs/book-outline/plan",
+                "docId": "specs/book-outline/plan",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Book Outline Tasks",
+                "href": "/docs/specs/book-outline/tasks",
+                "docId": "specs/book-outline/tasks",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "physical-ai-book",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Plan for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+                "href": "/docs/specs/physical-ai-book/plan",
+                "docId": "specs/physical-ai-book/plan",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Specification for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+                "href": "/docs/specs/physical-ai-book/spec",
+                "docId": "specs/physical-ai-book/spec",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Physical AI Book Tasks",
+                "href": "/docs/specs/physical-ai-book/tasks",
+                "docId": "specs/physical-ai-book/tasks",
+                "unlisted": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Physical AI Book Tasks",
+        "href": "/docs/tasks",
+        "docId": "tasks",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "index": {
+      "id": "index",
+      "title": "Physical AI Book Constitution",
+      "description": "Preamble",
+      "sidebar": "tutorialSidebar"
+    },
+    "plan": {
+      "id": "plan",
+      "title": "Physical AI Book Plan",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "specification": {
+      "id": "specification",
+      "title": "Physical AI Book Specification",
+      "description": "1. Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "specs/book-outline/plan": {
+      "id": "specs/book-outline/plan",
+      "title": "Book Outline Plan",
+      "description": "1. Goal Setting",
+      "sidebar": "tutorialSidebar"
+    },
+    "specs/book-outline/tasks": {
+      "id": "specs/book-outline/tasks",
+      "title": "Book Outline Tasks",
+      "description": "Phase 1: Conceptualization & Initial Research",
+      "sidebar": "tutorialSidebar"
+    },
+    "specs/physical-ai-book/plan": {
+      "id": "specs/physical-ai-book/plan",
+      "title": "Plan for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "specs/physical-ai-book/spec": {
+      "id": "specs/physical-ai-book/spec",
+      "title": "Specification for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+      "description": "1. Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "specs/physical-ai-book/tasks": {
+      "id": "specs/physical-ai-book/tasks",
+      "title": "Physical AI Book Tasks",
+      "description": "1. Research and Content Creation Tasks",
+      "sidebar": "tutorialSidebar"
+    },
+    "tasks": {
+      "id": "tasks",
+      "title": "Physical AI Book Tasks",
+      "description": "Project Management Tasks",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

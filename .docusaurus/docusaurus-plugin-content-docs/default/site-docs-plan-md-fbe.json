@@ -1,0 +1,24 @@
+{
+  "id": "plan",
+  "title": "Physical AI Book Plan",
+  "description": "Overview",
+  "source": "@site/docs/plan.md",
+  "sourceDirName": ".",
+  "slug": "/plan",
+  "permalink": "/docs/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI Book Constitution",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Physical AI Book Specification",
+    "permalink": "/docs/specification"
+  }
+}

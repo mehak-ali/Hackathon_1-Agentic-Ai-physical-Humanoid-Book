@@ -1,0 +1,24 @@
+{
+  "id": "specs/physical-ai-book/tasks",
+  "title": "Physical AI Book Tasks",
+  "description": "1. Research and Content Creation Tasks",
+  "source": "@site/docs/specs/physical-ai-book/tasks.md",
+  "sourceDirName": "specs/physical-ai-book",
+  "slug": "/specs/physical-ai-book/tasks",
+  "permalink": "/docs/specs/physical-ai-book/tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/physical-ai-book/tasks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specification for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+    "permalink": "/docs/specs/physical-ai-book/spec"
+  },
+  "next": {
+    "title": "Physical AI Book Tasks",
+    "permalink": "/docs/tasks"
+  }
+}

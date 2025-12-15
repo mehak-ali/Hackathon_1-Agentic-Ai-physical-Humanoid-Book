@@ -1,0 +1,24 @@
+{
+  "id": "specs/physical-ai-book/plan",
+  "title": "Plan for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+  "description": "Introduction",
+  "source": "@site/docs/specs/physical-ai-book/plan.md",
+  "sourceDirName": "specs/physical-ai-book",
+  "slug": "/specs/physical-ai-book/plan",
+  "permalink": "/docs/specs/physical-ai-book/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/physical-ai-book/plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Outline Tasks",
+    "permalink": "/docs/specs/book-outline/tasks"
+  },
+  "next": {
+    "title": "Specification for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+    "permalink": "/docs/specs/physical-ai-book/spec"
+  }
+}

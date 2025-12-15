@@ -1,0 +1,20 @@
+{
+  "id": "tasks",
+  "title": "Physical AI Book Tasks",
+  "description": "Project Management Tasks",
+  "source": "@site/docs/tasks.md",
+  "sourceDirName": ".",
+  "slug": "/tasks",
+  "permalink": "/docs/tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/tasks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI Book Tasks",
+    "permalink": "/docs/specs/physical-ai-book/tasks"
+  }
+}

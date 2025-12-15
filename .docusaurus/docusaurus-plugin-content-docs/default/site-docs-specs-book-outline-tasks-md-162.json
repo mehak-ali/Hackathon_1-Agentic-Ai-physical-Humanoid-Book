@@ -1,0 +1,24 @@
+{
+  "id": "specs/book-outline/tasks",
+  "title": "Book Outline Tasks",
+  "description": "Phase 1: Conceptualization & Initial Research",
+  "source": "@site/docs/specs/book-outline/tasks.md",
+  "sourceDirName": "specs/book-outline",
+  "slug": "/specs/book-outline/tasks",
+  "permalink": "/docs/specs/book-outline/tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/book-outline/tasks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Outline Plan",
+    "permalink": "/docs/specs/book-outline/plan"
+  },
+  "next": {
+    "title": "Plan for \"The Embodied Mind: A Guide to Building a Physical Humanoid AI\"",
+    "permalink": "/docs/specs/physical-ai-book/plan"
+  }
+}
