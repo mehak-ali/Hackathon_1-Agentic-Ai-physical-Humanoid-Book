@@ -1,0 +1,27 @@
+{
+  "id": "sp.implement",
+  "title": "Implementation: Module 1",
+  "description": "This document confirms the implementation of the \"The Robotic Nervous System (ROS 2)\" module as per the specification and plan.",
+  "source": "@site/docs/sp.implement.md",
+  "sourceDirName": ".",
+  "slug": "/sp.implement",
+  "permalink": "/docs/sp.implement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.implement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sp.implement",
+    "title": "Implementation: Module 1"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SP Task",
+    "permalink": "/docs/sp.task"
+  },
+  "next": {
+    "title": "Implementation Plan: Physical AI Book",
+    "permalink": "/docs/specs/physical-ai-book/plan"
+  }
+}

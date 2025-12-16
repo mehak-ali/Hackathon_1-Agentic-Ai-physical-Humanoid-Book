@@ -1,0 +1,19 @@
+{
+  "id": "digital-twin/tasks",
+  "title": "Task Breakdown: The Digital Twin",
+  "description": "Actionable task list for implementing the Gazebo & Unity module.",
+  "source": "@site/docs/digital-twin/tasks.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/tasks",
+  "permalink": "/docs/digital-twin/tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/tasks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tasks",
+    "title": "Task Breakdown: The Digital Twin",
+    "description": "Actionable task list for implementing the Gazebo & Unity module."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "robotic-nervous-system/spec",
+  "title": "Module Specification: The Robotic Nervous System",
+  "description": "Detailed specification for the ROS 2 module content.",
+  "source": "@site/docs/robotic-nervous-system/spec.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/spec",
+  "permalink": "/docs/robotic-nervous-system/spec",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/spec.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "spec",
+    "title": "Module Specification: The Robotic Nervous System",
+    "description": "Detailed specification for the ROS 2 module content."
+  }
+}

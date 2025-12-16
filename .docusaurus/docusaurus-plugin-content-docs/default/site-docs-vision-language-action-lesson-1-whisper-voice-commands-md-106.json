@@ -1,0 +1,28 @@
+{
+  "id": "vision-language-action/lesson1-whisper-voice-commands",
+  "title": "Lesson 1: Voice-to-Action with OpenAI Whisper",
+  "description": "The Gateway: Speech Recognition for Robots",
+  "source": "@site/docs/vision-language-action/lesson1-whisper-voice-commands.md",
+  "sourceDirName": "vision-language-action",
+  "slug": "/vision-language-action/lesson1-whisper-voice-commands",
+  "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/lesson1-whisper-voice-commands.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson1-whisper-voice-commands",
+    "title": "Lesson 1: Voice-to-Action with OpenAI Whisper",
+    "sidebar_label": "Whisper for Voice Commands"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/vision-language-action/introduction-to-vla"
+  },
+  "next": {
+    "title": "LLM Cognitive Planning",
+    "permalink": "/docs/vision-language-action/lesson2-llm-cognitive-planning"
+  }
+}

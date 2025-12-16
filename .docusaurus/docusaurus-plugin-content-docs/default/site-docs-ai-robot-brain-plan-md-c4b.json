@@ -1,0 +1,19 @@
+{
+  "id": "ai-robot-brain/plan",
+  "title": "Development Plan: The AI-Robot Brain",
+  "description": "Plan for creating the NVIDIA Isaac™ module content and structure.",
+  "source": "@site/docs/ai-robot-brain/plan.md",
+  "sourceDirName": "ai-robot-brain",
+  "slug": "/ai-robot-brain/plan",
+  "permalink": "/docs/ai-robot-brain/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plan",
+    "title": "Development Plan: The AI-Robot Brain",
+    "description": "Plan for creating the NVIDIA Isaac™ module content and structure."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sp.task",
+  "title": "SP Task",
+  "description": "Task Class",
+  "source": "@site/docs/sp.task.md",
+  "sourceDirName": ".",
+  "slug": "/sp.task",
+  "permalink": "/docs/sp.task",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.task.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SP Plan",
+    "permalink": "/docs/sp.plan"
+  },
+  "next": {
+    "title": "Implementation: Module 1",
+    "permalink": "/docs/sp.implement"
+  }
+}

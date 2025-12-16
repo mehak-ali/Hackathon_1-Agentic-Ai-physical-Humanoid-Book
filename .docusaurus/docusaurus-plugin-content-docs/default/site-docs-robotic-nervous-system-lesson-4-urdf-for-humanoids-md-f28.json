@@ -1,0 +1,28 @@
+{
+  "id": "robotic-nervous-system/lesson4-urdf-for-humanoids",
+  "title": "Lesson 4: Describing the Body (URDF)",
+  "description": "What is URDF?",
+  "source": "@site/docs/robotic-nervous-system/lesson4-urdf-for-humanoids.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/lesson4-urdf-for-humanoids",
+  "permalink": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson4-urdf-for-humanoids.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson4-urdf-for-humanoids",
+    "title": "Lesson 4: Describing the Body (URDF)",
+    "sidebar_label": "URDF for Humanoids"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Agents with rclpy",
+    "permalink": "/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/digital-twin/introduction-to-digital-twin"
+  }
+}

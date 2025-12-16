@@ -1,0 +1,28 @@
+{
+  "id": "vision-language-action/lesson2-llm-cognitive-planning",
+  "title": "Lesson 2: Cognitive Planning with LLMs",
+  "description": "The Challenge: From Language to Action",
+  "source": "@site/docs/vision-language-action/lesson2-llm-cognitive-planning.md",
+  "sourceDirName": "vision-language-action",
+  "slug": "/vision-language-action/lesson2-llm-cognitive-planning",
+  "permalink": "/docs/vision-language-action/lesson2-llm-cognitive-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/lesson2-llm-cognitive-planning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson2-llm-cognitive-planning",
+    "title": "Lesson 2: Cognitive Planning with LLMs",
+    "sidebar_label": "LLM Cognitive Planning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Whisper for Voice Commands",
+    "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands"
+  },
+  "next": {
+    "title": "Capstone: Autonomous Humanoid",
+    "permalink": "/docs/vision-language-action/lesson3-capstone-autonomous-humanoid"
+  }
+}

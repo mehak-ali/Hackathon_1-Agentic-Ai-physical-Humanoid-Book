@@ -1,0 +1,18 @@
+{
+  "id": "the-embodied-mind/lesson3-actuators-and-action",
+  "title": "Lesson 3: Actuators and Action",
+  "description": "Objective",
+  "source": "@site/docs/the-embodied-mind/lesson3-actuators-and-action.md",
+  "sourceDirName": "the-embodied-mind",
+  "slug": "/the-embodied-mind/lesson3-actuators-and-action",
+  "permalink": "/docs/the-embodied-mind/lesson3-actuators-and-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/the-embodied-mind/lesson3-actuators-and-action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

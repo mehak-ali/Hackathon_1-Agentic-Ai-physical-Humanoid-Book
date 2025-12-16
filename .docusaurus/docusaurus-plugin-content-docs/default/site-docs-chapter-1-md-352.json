@@ -1,0 +1,20 @@
+{
+  "id": "chapter1",
+  "title": "Chapter 1: What is Physical AI?",
+  "description": "Introduction to Physical AI",
+  "source": "@site/docs/chapter1.md",
+  "sourceDirName": ".",
+  "slug": "/chapter1",
+  "permalink": "/docs/chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/chapter1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 2 - The Anatomy of a Physical AI",
+    "permalink": "/docs/chapter2"
+  }
+}

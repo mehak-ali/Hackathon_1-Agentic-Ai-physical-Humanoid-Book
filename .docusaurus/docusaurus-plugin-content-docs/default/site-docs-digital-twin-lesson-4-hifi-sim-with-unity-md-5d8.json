@@ -1,0 +1,28 @@
+{
+  "id": "digital-twin/lesson4-hifi-sim-with-unity",
+  "title": "Lesson 4: High-Fidelity Simulation with Unity",
+  "description": "Beyond Physics: The Need for High-Fidelity",
+  "source": "@site/docs/digital-twin/lesson4-hifi-sim-with-unity.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/lesson4-hifi-sim-with-unity",
+  "permalink": "/docs/digital-twin/lesson4-hifi-sim-with-unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/lesson4-hifi-sim-with-unity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson4-hifi-sim-with-unity",
+    "title": "Lesson 4: High-Fidelity Simulation with Unity",
+    "sidebar_label": "Unity for Advanced Simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulating Sensors",
+    "permalink": "/docs/digital-twin/lesson3-simulating-sensors"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/ai-robot-brain/introduction-to-ai-robot-brain"
+  }
+}

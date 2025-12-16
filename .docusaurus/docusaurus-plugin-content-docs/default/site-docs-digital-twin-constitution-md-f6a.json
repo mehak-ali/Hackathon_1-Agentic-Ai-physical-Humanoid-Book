@@ -1,0 +1,19 @@
+{
+  "id": "digital-twin/constitution",
+  "title": "Module Constitution: The Digital Twin",
+  "description": "Guiding principles for the Gazebo & Unity simulation module.",
+  "source": "@site/docs/digital-twin/constitution.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/constitution",
+  "permalink": "/docs/digital-twin/constitution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/constitution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "constitution",
+    "title": "Module Constitution: The Digital Twin",
+    "description": "Guiding principles for the Gazebo & Unity simulation module."
+  }
+}

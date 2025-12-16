@@ -1,0 +1,19 @@
+{
+  "id": "ai-robot-brain/constitution",
+  "title": "Module Constitution: The AI-Robot Brain",
+  "description": "Guiding principles for the NVIDIA Isaac™ module.",
+  "source": "@site/docs/ai-robot-brain/constitution.md",
+  "sourceDirName": "ai-robot-brain",
+  "slug": "/ai-robot-brain/constitution",
+  "permalink": "/docs/ai-robot-brain/constitution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/constitution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "constitution",
+    "title": "Module Constitution: The AI-Robot Brain",
+    "description": "Guiding principles for the NVIDIA Isaac™ module."
+  }
+}

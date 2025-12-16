@@ -1,0 +1,28 @@
+{
+  "id": "robotic-nervous-system/lesson1-intro-to-ros2",
+  "title": "Lesson 1: What is a Robotic Nervous System?",
+  "description": "The Need for a Nervous System",
+  "source": "@site/docs/robotic-nervous-system/lesson1-intro-to-ros2.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/lesson1-intro-to-ros2",
+  "permalink": "/docs/robotic-nervous-system/lesson1-intro-to-ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson1-intro-to-ros2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson1-intro-to-ros2",
+    "title": "Lesson 1: What is a Robotic Nervous System?",
+    "sidebar_label": "Introduction to ROS 2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/robotic-nervous-system/introduction-to-rns"
+  },
+  "next": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/docs/robotic-nervous-system/lesson2-ros2-fundamentals"
+  }
+}

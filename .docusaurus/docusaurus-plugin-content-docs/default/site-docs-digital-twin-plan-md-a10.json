@@ -1,0 +1,19 @@
+{
+  "id": "digital-twin/plan",
+  "title": "Development Plan: The Digital Twin",
+  "description": "Plan for creating the Gazebo & Unity module content and structure.",
+  "source": "@site/docs/digital-twin/plan.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/plan",
+  "permalink": "/docs/digital-twin/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plan",
+    "title": "Development Plan: The Digital Twin",
+    "description": "Plan for creating the Gazebo & Unity module content and structure."
+  }
+}

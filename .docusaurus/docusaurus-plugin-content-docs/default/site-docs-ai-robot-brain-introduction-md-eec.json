@@ -1,0 +1,28 @@
+{
+  "id": "ai-robot-brain/introduction-to-ai-robot-brain",
+  "title": "Introduction: The AI-Robot Brain",
+  "description": "Empowering the Humanoid with Advanced Intelligence",
+  "source": "@site/docs/ai-robot-brain/introduction.md",
+  "sourceDirName": "ai-robot-brain",
+  "slug": "/ai-robot-brain/introduction-to-ai-robot-brain",
+  "permalink": "/docs/ai-robot-brain/introduction-to-ai-robot-brain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction-to-ai-robot-brain",
+    "title": "Introduction: The AI-Robot Brain",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity for Advanced Simulation",
+    "permalink": "/docs/digital-twin/lesson4-hifi-sim-with-unity"
+  },
+  "next": {
+    "title": "Isaac Sim & Synthetic Data",
+    "permalink": "/docs/ai-robot-brain/lesson1-isaac-sim"
+  }
+}

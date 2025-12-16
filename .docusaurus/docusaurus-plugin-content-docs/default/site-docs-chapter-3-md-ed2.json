@@ -1,0 +1,27 @@
+{
+  "id": "chapter3",
+  "title": "Chapter 3 - The Mind of a Physical AI",
+  "description": "Welcome to the third chapter! In this chapter, we will explore the software and algorithms that power the intelligence of a physical AI. We will discuss how these systems learn, plan, and make decisions.",
+  "source": "@site/docs/chapter3.md",
+  "sourceDirName": ".",
+  "slug": "/chapter3",
+  "permalink": "/docs/chapter3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/chapter3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter3",
+    "title": "Chapter 3 - The Mind of a Physical AI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2 - The Anatomy of a Physical AI",
+    "permalink": "/docs/chapter2"
+  },
+  "next": {
+    "title": "Physical-AI Book Constitution",
+    "permalink": "/docs/constitution"
+  }
+}

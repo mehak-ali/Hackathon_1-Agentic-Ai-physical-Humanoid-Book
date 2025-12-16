@@ -1,0 +1,18 @@
+{
+  "id": "the-embodied-mind/lesson2-sensors-and-perception",
+  "title": "Lesson 2: Sensors and Perception",
+  "description": "Objective",
+  "source": "@site/docs/the-embodied-mind/lesson2-sensors-and-perception.md",
+  "sourceDirName": "the-embodied-mind",
+  "slug": "/the-embodied-mind/lesson2-sensors-and-perception",
+  "permalink": "/docs/the-embodied-mind/lesson2-sensors-and-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/the-embodied-mind/lesson2-sensors-and-perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

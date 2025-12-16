@@ -1,0 +1,55 @@
+Initial commit for gh-pages branch
+
+# Conflicts:
+#	docusaurus.config.js
+#	sidebars.js
+#	src/pages/index.js
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto f6ae5ce6
+# Last command done (1 command done):
+#    pick 0e80dfd2 # Initial commit for gh-pages branch
+# Next commands to do (3 remaining commands):
+#    pick 85533605 # Initial commit for gh-pages branch
+#    pick e8678448 # docs: update production url
+# You are currently rebasing branch 'gh-pages' on 'f6ae5ce6'.
+#
+# Changes to be committed:
+#	new file:   .gemini/commands/sp.adr.toml
+#	new file:   .gemini/commands/sp.analyze.toml
+#	new file:   .gemini/commands/sp.checklist.toml
+#	new file:   .gemini/commands/sp.clarify.toml
+#	new file:   .gemini/commands/sp.constitution.toml
+#	new file:   .gemini/commands/sp.git.commit_pr.toml
+#	new file:   .gemini/commands/sp.implement.toml
+#	new file:   .gemini/commands/sp.phr.toml
+#	new file:   .gemini/commands/sp.plan.toml
+#	new file:   .gemini/commands/sp.specify.toml
+#	new file:   .gemini/commands/sp.tasks.toml
+#	new file:   .github/workflows/deploy.yml
+#	new file:   .gitignore
+#	new file:   .specify/memory/constitution.md
+#	new file:   .specify/scripts/powershell/check-prerequisites.ps1
+#	new file:   .specify/scripts/powershell/common.ps1
+#	new file:   .specify/scripts/powershell/create-new-feature.ps1
+#	new file:   .specify/scripts/powershell/setup-plan.ps1
+#	new file:   .specify/scripts/powershell/update-agent-context.ps1
+#	new file:   .specify/templates/adr-template.md
+#	new file:   .specify/templates/agent-file-template.md
+#	new file:   .specify/templates/checklist-template.md
+#	new file:   .specify/templates/phr-template.prompt.md
+#	new file:   .specify/templates/plan-template.md
+#	new file:   .specify/templates/spec-template.md
+#	new file:   .specify/templates/tasks-template.md
+#	new file:   docs/physical-ai-book/_category_.json
+#	new file:   docs/the-embodied-mind/_category_.json
+#	new file:   docs/the-embodied-mind/chapter1.md
+#	new file:   docs/the-embodied-mind/lesson1-bits-to-atoms.md
+#	new file:   docs/the-embodied-mind/lesson2-sensors-and-perception.md
+#	new file:   docs/the-embodied-mind/lesson3-actuators-and-action.md
+#	new file:   history/prompts/general/0007-fix-docusaurus-baseurl-config.general.prompt.md
+#	new file:   history/prompts/general/0008-update-start-reading-button-link.general.prompt.md
+#	new file:   static/.nojekyll
+#

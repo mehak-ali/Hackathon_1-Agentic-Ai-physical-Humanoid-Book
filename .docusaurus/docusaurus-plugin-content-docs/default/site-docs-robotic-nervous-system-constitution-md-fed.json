@@ -1,0 +1,19 @@
+{
+  "id": "robotic-nervous-system/constitution",
+  "title": "Module Constitution: The Robotic Nervous System",
+  "description": "Guiding principles for developing the ROS 2 module.",
+  "source": "@site/docs/robotic-nervous-system/constitution.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/constitution",
+  "permalink": "/docs/robotic-nervous-system/constitution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/constitution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "constitution",
+    "title": "Module Constitution: The Robotic Nervous System",
+    "description": "Guiding principles for developing the ROS 2 module."
+  }
+}

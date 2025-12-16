@@ -1,0 +1,19 @@
+{
+  "id": "vision-language-action/plan",
+  "title": "Development Plan: Vision-Language-Action (VLA)",
+  "description": "Plan for creating the Vision-Language-Action module content.",
+  "source": "@site/docs/vision-language-action/plan.md",
+  "sourceDirName": "vision-language-action",
+  "slug": "/vision-language-action/plan",
+  "permalink": "/docs/vision-language-action/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plan",
+    "title": "Development Plan: Vision-Language-Action (VLA)",
+    "description": "Plan for creating the Vision-Language-Action module content."
+  }
+}

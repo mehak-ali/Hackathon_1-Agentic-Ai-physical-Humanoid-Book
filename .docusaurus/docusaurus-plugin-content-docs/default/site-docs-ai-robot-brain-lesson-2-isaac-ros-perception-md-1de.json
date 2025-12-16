@@ -1,0 +1,28 @@
+{
+  "id": "ai-robot-brain/lesson2-isaac-ros-perception",
+  "title": "Lesson 2: Isaac ROS for Hardware-Accelerated Perception",
+  "description": "The Need for Speed: Hardware Acceleration",
+  "source": "@site/docs/ai-robot-brain/lesson2-isaac-ros-perception.md",
+  "sourceDirName": "ai-robot-brain",
+  "slug": "/ai-robot-brain/lesson2-isaac-ros-perception",
+  "permalink": "/docs/ai-robot-brain/lesson2-isaac-ros-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/lesson2-isaac-ros-perception.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson2-isaac-ros-perception",
+    "title": "Lesson 2: Isaac ROS for Hardware-Accelerated Perception",
+    "sidebar_label": "Isaac ROS Perception"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim & Synthetic Data",
+    "permalink": "/docs/ai-robot-brain/lesson1-isaac-sim"
+  },
+  "next": {
+    "title": "Nav2 Humanoid Navigation",
+    "permalink": "/docs/ai-robot-brain/lesson3-nav2-humanoid"
+  }
+}

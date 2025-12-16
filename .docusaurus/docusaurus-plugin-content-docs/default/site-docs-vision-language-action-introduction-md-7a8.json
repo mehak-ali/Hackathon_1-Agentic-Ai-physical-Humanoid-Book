@@ -1,0 +1,28 @@
+{
+  "id": "vision-language-action/introduction-to-vla",
+  "title": "Introduction: Vision-Language-Action (VLA)",
+  "description": "The Ultimate Goal: Conversational Robots",
+  "source": "@site/docs/vision-language-action/introduction.md",
+  "sourceDirName": "vision-language-action",
+  "slug": "/vision-language-action/introduction-to-vla",
+  "permalink": "/docs/vision-language-action/introduction-to-vla",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction-to-vla",
+    "title": "Introduction: Vision-Language-Action (VLA)",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nav2 Humanoid Navigation",
+    "permalink": "/docs/ai-robot-brain/lesson3-nav2-humanoid"
+  },
+  "next": {
+    "title": "Whisper for Voice Commands",
+    "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands"
+  }
+}

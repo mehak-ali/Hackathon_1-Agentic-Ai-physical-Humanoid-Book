@@ -1,0 +1,19 @@
+{
+  "id": "robotic-nervous-system/plan",
+  "title": "Development Plan: The Robotic Nervous System",
+  "description": "Plan for creating the ROS 2 module content, examples, and structure.",
+  "source": "@site/docs/robotic-nervous-system/plan.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/plan",
+  "permalink": "/docs/robotic-nervous-system/plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "plan",
+    "title": "Development Plan: The Robotic Nervous System",
+    "description": "Plan for creating the ROS 2 module content, examples, and structure."
+  }
+}

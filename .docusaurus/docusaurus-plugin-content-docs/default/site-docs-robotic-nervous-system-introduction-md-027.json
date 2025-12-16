@@ -1,0 +1,28 @@
+{
+  "id": "robotic-nervous-system/introduction-to-rns",
+  "title": "Introduction: The Robotic Nervous System",
+  "description": "This module introduces the Robot Operating System (ROS 2), the middleware that acts as the nervous system for modern robots.",
+  "source": "@site/docs/robotic-nervous-system/introduction.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/introduction-to-rns",
+  "permalink": "/docs/robotic-nervous-system/introduction-to-rns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction-to-rns",
+    "title": "Introduction: The Robotic Nervous System",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tasks: Physical AI Book",
+    "permalink": "/docs/specs/physical-ai-book/tasks"
+  },
+  "next": {
+    "title": "Introduction to ROS 2",
+    "permalink": "/docs/robotic-nervous-system/lesson1-intro-to-ros2"
+  }
+}

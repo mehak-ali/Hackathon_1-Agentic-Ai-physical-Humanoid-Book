@@ -1,0 +1,28 @@
+{
+  "id": "robotic-nervous-system/lesson2-ros2-fundamentals",
+  "title": "Lesson 2: ROS 2 Fundamentals in Practice",
+  "description": "In this lesson, we'll move from theory to practice. We'll write Python code to create ROS 2 nodes that communicate using Topics and Services. The Python library we use for this is called rclpy (ROS Client Library for Python).",
+  "source": "@site/docs/robotic-nervous-system/lesson2-ros2-fundamentals.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/lesson2-ros2-fundamentals",
+  "permalink": "/docs/robotic-nervous-system/lesson2-ros2-fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson2-ros2-fundamentals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson2-ros2-fundamentals",
+    "title": "Lesson 2: ROS 2 Fundamentals in Practice",
+    "sidebar_label": "ROS 2 Fundamentals"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to ROS 2",
+    "permalink": "/docs/robotic-nervous-system/lesson1-intro-to-ros2"
+  },
+  "next": {
+    "title": "Python Agents with rclpy",
+    "permalink": "/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy"
+  }
+}

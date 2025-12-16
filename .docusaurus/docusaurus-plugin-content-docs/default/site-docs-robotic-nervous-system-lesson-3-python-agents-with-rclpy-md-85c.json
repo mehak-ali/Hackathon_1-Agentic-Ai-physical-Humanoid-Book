@@ -1,0 +1,28 @@
+{
+  "id": "robotic-nervous-system/lesson3-python-agents-with-rclpy",
+  "title": "Lesson 3: Bridging Agents to ROS 2",
+  "description": "What is an \"Agent\"?",
+  "source": "@site/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy.md",
+  "sourceDirName": "robotic-nervous-system",
+  "slug": "/robotic-nervous-system/lesson3-python-agents-with-rclpy",
+  "permalink": "/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson3-python-agents-with-rclpy",
+    "title": "Lesson 3: Bridging Agents to ROS 2",
+    "sidebar_label": "Python Agents with rclpy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/docs/robotic-nervous-system/lesson2-ros2-fundamentals"
+  },
+  "next": {
+    "title": "URDF for Humanoids",
+    "permalink": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids"
+  }
+}

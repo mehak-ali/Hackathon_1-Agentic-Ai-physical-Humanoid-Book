@@ -1,0 +1,18 @@
+{
+  "id": "the-embodied-mind/lesson1-bits-to-atoms",
+  "title": "Lesson 1: From Bits to Atoms",
+  "description": "Objective",
+  "source": "@site/docs/the-embodied-mind/lesson1-bits-to-atoms.md",
+  "sourceDirName": "the-embodied-mind",
+  "slug": "/the-embodied-mind/lesson1-bits-to-atoms",
+  "permalink": "/docs/the-embodied-mind/lesson1-bits-to-atoms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/the-embodied-mind/lesson1-bits-to-atoms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

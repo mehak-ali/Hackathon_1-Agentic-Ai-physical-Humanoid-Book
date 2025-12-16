@@ -1,0 +1,28 @@
+{
+  "id": "digital-twin/lesson3-simulating-sensors",
+  "title": "Lesson 3: Simulating Sensors",
+  "description": "Why Simulate Sensors?",
+  "source": "@site/docs/digital-twin/lesson3-simulating-sensors.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/lesson3-simulating-sensors",
+  "permalink": "/docs/digital-twin/lesson3-simulating-sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/lesson3-simulating-sensors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson3-simulating-sensors",
+    "title": "Lesson 3: Simulating Sensors",
+    "sidebar_label": "Simulating Sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulating the World",
+    "permalink": "/docs/digital-twin/lesson2-simulating-the-world"
+  },
+  "next": {
+    "title": "Unity for Advanced Simulation",
+    "permalink": "/docs/digital-twin/lesson4-hifi-sim-with-unity"
+  }
+}

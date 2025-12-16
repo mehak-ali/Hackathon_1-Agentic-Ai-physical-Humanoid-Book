@@ -1,0 +1,24 @@
+{
+  "id": "sp.specify",
+  "title": "SP Specify",
+  "description": "Integration Specification",
+  "source": "@site/docs/sp.specify.md",
+  "sourceDirName": ".",
+  "slug": "/sp.specify",
+  "permalink": "/docs/sp.specify",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.specify.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SP Constitution",
+    "permalink": "/docs/sp.constitution"
+  },
+  "next": {
+    "title": "SP Plan",
+    "permalink": "/docs/sp.plan"
+  }
+}

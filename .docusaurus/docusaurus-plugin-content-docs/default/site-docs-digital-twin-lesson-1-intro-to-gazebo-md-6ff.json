@@ -1,0 +1,28 @@
+{
+  "id": "digital-twin/lesson1-intro-to-gazebo",
+  "title": "Lesson 1: Introduction to Gazebo",
+  "description": "What is Gazebo?",
+  "source": "@site/docs/digital-twin/lesson1-intro-to-gazebo.md",
+  "sourceDirName": "digital-twin",
+  "slug": "/digital-twin/lesson1-intro-to-gazebo",
+  "permalink": "/docs/digital-twin/lesson1-intro-to-gazebo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/lesson1-intro-to-gazebo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lesson1-intro-to-gazebo",
+    "title": "Lesson 1: Introduction to Gazebo",
+    "sidebar_label": "Introduction to Gazebo"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/digital-twin/introduction-to-digital-twin"
+  },
+  "next": {
+    "title": "Simulating the World",
+    "permalink": "/docs/digital-twin/lesson2-simulating-the-world"
+  }
+}
