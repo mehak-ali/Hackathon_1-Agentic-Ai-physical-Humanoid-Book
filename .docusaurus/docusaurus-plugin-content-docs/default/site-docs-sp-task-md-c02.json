@@ -14,11 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SP Plan",
-    "permalink": "/docs/sp.plan"
-  },
-  "next": {
-    "title": "Implementation: Module 1",
-    "permalink": "/docs/sp.implement"
+    "title": "SP Specify",
+    "permalink": "/docs/sp.specify"
   }
 }

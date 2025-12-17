@@ -15,5 +15,14 @@
     "id": "spec",
     "title": "Module Specification: The AI-Robot Brain",
     "description": "Detailed specification for the NVIDIA Isaac™ module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development Plan: The AI-Robot Brain",
+    "permalink": "/docs/ai-robot-brain/plan"
+  },
+  "next": {
+    "title": "Task Breakdown: The AI-Robot Brain",
+    "permalink": "/docs/ai-robot-brain/tasks"
   }
 }

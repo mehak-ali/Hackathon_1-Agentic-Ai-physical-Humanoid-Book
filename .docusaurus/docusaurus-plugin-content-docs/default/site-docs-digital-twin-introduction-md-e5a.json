@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "URDF for Humanoids",
-    "permalink": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids"
+    "title": "Module Constitution: The Digital Twin",
+    "permalink": "/docs/digital-twin/constitution"
   },
   "next": {
     "title": "Introduction to Gazebo",

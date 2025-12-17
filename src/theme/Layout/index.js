@@ -1,0 +1,12 @@
+import React from 'react';
+import Layout from '@theme-original/Layout';
+import Chatbot from '../../components/Chatbot'; // Adjust path if necessary
+
+export default function LayoutWrapper(props) {
+  return (
+    <>
+      <Layout {...props} />
+      <Chatbot />
+    </>
+  );
+}

@@ -15,5 +15,14 @@
     "id": "tasks",
     "title": "Task Breakdown: The Digital Twin",
     "description": "Actionable task list for implementing the Gazebo & Unity module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Specification: The Digital Twin",
+    "permalink": "/docs/digital-twin/spec"
+  },
+  "next": {
+    "title": "Module Constitution: The Robotic Nervous System",
+    "permalink": "/docs/robotic-nervous-system/constitution"
   }
 }

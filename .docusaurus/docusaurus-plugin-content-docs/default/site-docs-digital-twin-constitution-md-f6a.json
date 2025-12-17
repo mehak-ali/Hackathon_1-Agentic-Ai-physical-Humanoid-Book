@@ -15,5 +15,14 @@
     "id": "constitution",
     "title": "Module Constitution: The Digital Twin",
     "description": "Guiding principles for the Gazebo & Unity simulation module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Task Breakdown: The AI-Robot Brain",
+    "permalink": "/docs/ai-robot-brain/tasks"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/digital-twin/introduction-to-digital-twin"
   }
 }

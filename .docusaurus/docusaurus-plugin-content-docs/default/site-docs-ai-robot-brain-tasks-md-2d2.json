@@ -15,5 +15,14 @@
     "id": "tasks",
     "title": "Task Breakdown: The AI-Robot Brain",
     "description": "Actionable task list for implementing the NVIDIA Isaac™ module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Specification: The AI-Robot Brain",
+    "permalink": "/docs/ai-robot-brain/spec"
+  },
+  "next": {
+    "title": "Module Constitution: The Digital Twin",
+    "permalink": "/docs/digital-twin/constitution"
   }
 }

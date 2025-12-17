@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tasks: Physical AI Book",
-    "permalink": "/docs/specs/physical-ai-book/tasks"
+    "title": "Module Constitution: The Robotic Nervous System",
+    "permalink": "/docs/robotic-nervous-system/constitution"
   },
   "next": {
     "title": "Introduction to ROS 2",

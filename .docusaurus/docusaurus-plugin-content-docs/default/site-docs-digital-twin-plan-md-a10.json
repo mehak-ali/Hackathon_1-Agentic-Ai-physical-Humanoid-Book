@@ -15,5 +15,14 @@
     "id": "plan",
     "title": "Development Plan: The Digital Twin",
     "description": "Plan for creating the Gazebo & Unity module content and structure."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity for Advanced Simulation",
+    "permalink": "/docs/digital-twin/lesson4-hifi-sim-with-unity"
+  },
+  "next": {
+    "title": "Module Specification: The Digital Twin",
+    "permalink": "/docs/digital-twin/spec"
   }
 }

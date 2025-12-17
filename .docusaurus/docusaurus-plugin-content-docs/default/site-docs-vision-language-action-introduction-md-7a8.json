@@ -15,14 +15,5 @@
     "id": "introduction-to-vla",
     "title": "Introduction: Vision-Language-Action (VLA)",
     "sidebar_label": "Introduction"
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Nav2 Humanoid Navigation",
-    "permalink": "/docs/ai-robot-brain/lesson3-nav2-humanoid"
-  },
-  "next": {
-    "title": "Whisper for Voice Commands",
-    "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands"
   }
 }

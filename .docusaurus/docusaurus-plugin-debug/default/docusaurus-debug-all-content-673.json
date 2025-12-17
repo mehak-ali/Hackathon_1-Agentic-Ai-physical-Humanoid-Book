@@ -11,14 +11,544 @@
           "className": "docs-version-current",
           "path": "/docs",
           "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs",
-          "editUrlLocalized": "https://github.com/your-username/physical-humanoid-book/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs",
+          "editUrlLocalized": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "C:\\Users\\DELL\\Desktop\\hackathon 1 physical-humanoid-book\\my-book\\sidebars.js",
           "contentPath": "C:\\Users\\DELL\\Desktop\\hackathon 1 physical-humanoid-book\\my-book\\docs",
           "contentPathLocalized": "C:\\Users\\DELL\\Desktop\\hackathon 1 physical-humanoid-book\\my-book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
+            {
+              "id": "ai-robot-brain/constitution",
+              "title": "Module Constitution: The AI-Robot Brain",
+              "description": "Guiding principles for the NVIDIA Isaac™ module.",
+              "source": "@site/docs/ai-robot-brain/constitution.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/constitution",
+              "permalink": "/docs/ai-robot-brain/constitution",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/constitution.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "constitution",
+                "title": "Module Constitution: The AI-Robot Brain",
+                "description": "Guiding principles for the NVIDIA Isaac™ module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Task Breakdown: The Robotic Nervous System",
+                "permalink": "/docs/robotic-nervous-system/tasks"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/ai-robot-brain/introduction-to-ai-robot-brain"
+              }
+            },
+            {
+              "id": "ai-robot-brain/introduction-to-ai-robot-brain",
+              "title": "Introduction: The AI-Robot Brain",
+              "description": "Empowering the Humanoid with Advanced Intelligence",
+              "source": "@site/docs/ai-robot-brain/introduction.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/introduction-to-ai-robot-brain",
+              "permalink": "/docs/ai-robot-brain/introduction-to-ai-robot-brain",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "introduction-to-ai-robot-brain",
+                "title": "Introduction: The AI-Robot Brain",
+                "sidebar_label": "Introduction"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Constitution: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/constitution"
+              },
+              "next": {
+                "title": "Isaac Sim & Synthetic Data",
+                "permalink": "/docs/ai-robot-brain/lesson1-isaac-sim"
+              }
+            },
+            {
+              "id": "ai-robot-brain/lesson1-isaac-sim",
+              "title": "Lesson 1: NVIDIA Isaac Sim & Synthetic Data",
+              "description": "The Power of NVIDIA Isaac Sim",
+              "source": "@site/docs/ai-robot-brain/lesson1-isaac-sim.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/lesson1-isaac-sim",
+              "permalink": "/docs/ai-robot-brain/lesson1-isaac-sim",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/lesson1-isaac-sim.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson1-isaac-sim",
+                "title": "Lesson 1: NVIDIA Isaac Sim & Synthetic Data",
+                "sidebar_label": "Isaac Sim & Synthetic Data"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/ai-robot-brain/introduction-to-ai-robot-brain"
+              },
+              "next": {
+                "title": "Isaac ROS Perception",
+                "permalink": "/docs/ai-robot-brain/lesson2-isaac-ros-perception"
+              }
+            },
+            {
+              "id": "ai-robot-brain/lesson2-isaac-ros-perception",
+              "title": "Lesson 2: Isaac ROS for Hardware-Accelerated Perception",
+              "description": "The Need for Speed: Hardware Acceleration",
+              "source": "@site/docs/ai-robot-brain/lesson2-isaac-ros-perception.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/lesson2-isaac-ros-perception",
+              "permalink": "/docs/ai-robot-brain/lesson2-isaac-ros-perception",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/lesson2-isaac-ros-perception.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson2-isaac-ros-perception",
+                "title": "Lesson 2: Isaac ROS for Hardware-Accelerated Perception",
+                "sidebar_label": "Isaac ROS Perception"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac Sim & Synthetic Data",
+                "permalink": "/docs/ai-robot-brain/lesson1-isaac-sim"
+              },
+              "next": {
+                "title": "Nav2 Humanoid Navigation",
+                "permalink": "/docs/ai-robot-brain/lesson3-nav2-humanoid"
+              }
+            },
+            {
+              "id": "ai-robot-brain/lesson3-nav2-humanoid",
+              "title": "Lesson 3: Nav2 for Bipedal Humanoid Movement",
+              "description": "Introduction to Nav2: ROS 2's Navigation Stack",
+              "source": "@site/docs/ai-robot-brain/lesson3-nav2-humanoid.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/lesson3-nav2-humanoid",
+              "permalink": "/docs/ai-robot-brain/lesson3-nav2-humanoid",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/lesson3-nav2-humanoid.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson3-nav2-humanoid",
+                "title": "Lesson 3: Nav2 for Bipedal Humanoid Movement",
+                "sidebar_label": "Nav2 Humanoid Navigation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Isaac ROS Perception",
+                "permalink": "/docs/ai-robot-brain/lesson2-isaac-ros-perception"
+              },
+              "next": {
+                "title": "Development Plan: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/plan"
+              }
+            },
+            {
+              "id": "ai-robot-brain/plan",
+              "title": "Development Plan: The AI-Robot Brain",
+              "description": "Plan for creating the NVIDIA Isaac™ module content and structure.",
+              "source": "@site/docs/ai-robot-brain/plan.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/plan",
+              "permalink": "/docs/ai-robot-brain/plan",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/plan.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "plan",
+                "title": "Development Plan: The AI-Robot Brain",
+                "description": "Plan for creating the NVIDIA Isaac™ module content and structure."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Nav2 Humanoid Navigation",
+                "permalink": "/docs/ai-robot-brain/lesson3-nav2-humanoid"
+              },
+              "next": {
+                "title": "Module Specification: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/spec"
+              }
+            },
+            {
+              "id": "ai-robot-brain/spec",
+              "title": "Module Specification: The AI-Robot Brain",
+              "description": "Detailed specification for the NVIDIA Isaac™ module.",
+              "source": "@site/docs/ai-robot-brain/spec.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/spec",
+              "permalink": "/docs/ai-robot-brain/spec",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/spec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "spec",
+                "title": "Module Specification: The AI-Robot Brain",
+                "description": "Detailed specification for the NVIDIA Isaac™ module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Development Plan: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/plan"
+              },
+              "next": {
+                "title": "Task Breakdown: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/tasks"
+              }
+            },
+            {
+              "id": "ai-robot-brain/tasks",
+              "title": "Task Breakdown: The AI-Robot Brain",
+              "description": "Actionable task list for implementing the NVIDIA Isaac™ module.",
+              "source": "@site/docs/ai-robot-brain/tasks.md",
+              "sourceDirName": "ai-robot-brain",
+              "slug": "/ai-robot-brain/tasks",
+              "permalink": "/docs/ai-robot-brain/tasks",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/ai-robot-brain/tasks.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "tasks",
+                "title": "Task Breakdown: The AI-Robot Brain",
+                "description": "Actionable task list for implementing the NVIDIA Isaac™ module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Specification: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/spec"
+              },
+              "next": {
+                "title": "Chapter 2 - The Anatomy of a Physical AI",
+                "permalink": "/docs/chapter2"
+              }
+            },
+            {
+              "id": "chapter2",
+              "title": "Chapter 2 - The Anatomy of a Physical AI",
+              "description": "Welcome to the second chapter! In this chapter, we will explore the key components that make up a physical AI system. We will delve into the hardware and software that enable a machine to perceive, reason, and act in the physical world.",
+              "source": "@site/docs/chapter2.md",
+              "sourceDirName": ".",
+              "slug": "/chapter2",
+              "permalink": "/docs/chapter2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/chapter2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "chapter2",
+                "title": "Chapter 2 - The Anatomy of a Physical AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Task Breakdown: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/tasks"
+              },
+              "next": {
+                "title": "Chapter 3 - The Mind of a Physical AI",
+                "permalink": "/docs/chapter3"
+              }
+            },
+            {
+              "id": "chapter3",
+              "title": "Chapter 3 - The Mind of a Physical AI",
+              "description": "Welcome to the third chapter! In this chapter, we will explore the software and algorithms that power the intelligence of a physical AI. We will discuss how these systems learn, plan, and make decisions.",
+              "source": "@site/docs/chapter3.md",
+              "sourceDirName": ".",
+              "slug": "/chapter3",
+              "permalink": "/docs/chapter3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/chapter3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "chapter3",
+                "title": "Chapter 3 - The Mind of a Physical AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 2 - The Anatomy of a Physical AI",
+                "permalink": "/docs/chapter2"
+              },
+              "next": {
+                "title": "Module Constitution: The Digital Twin",
+                "permalink": "/docs/digital-twin/constitution"
+              }
+            },
+            {
+              "id": "digital-twin/constitution",
+              "title": "Module Constitution: The Digital Twin",
+              "description": "Guiding principles for the Gazebo & Unity simulation module.",
+              "source": "@site/docs/digital-twin/constitution.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/constitution",
+              "permalink": "/docs/digital-twin/constitution",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/constitution.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "constitution",
+                "title": "Module Constitution: The Digital Twin",
+                "description": "Guiding principles for the Gazebo & Unity simulation module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 3 - The Mind of a Physical AI",
+                "permalink": "/docs/chapter3"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/digital-twin/introduction-to-digital-twin"
+              }
+            },
+            {
+              "id": "digital-twin/introduction-to-digital-twin",
+              "title": "Introduction: The Digital Twin",
+              "description": "What is a Digital Twin?",
+              "source": "@site/docs/digital-twin/introduction.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/introduction-to-digital-twin",
+              "permalink": "/docs/digital-twin/introduction-to-digital-twin",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "introduction-to-digital-twin",
+                "title": "Introduction: The Digital Twin",
+                "sidebar_label": "Introduction"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Constitution: The Digital Twin",
+                "permalink": "/docs/digital-twin/constitution"
+              },
+              "next": {
+                "title": "Introduction to Gazebo",
+                "permalink": "/docs/digital-twin/lesson1-intro-to-gazebo"
+              }
+            },
+            {
+              "id": "digital-twin/lesson1-intro-to-gazebo",
+              "title": "Lesson 1: Introduction to Gazebo",
+              "description": "What is Gazebo?",
+              "source": "@site/docs/digital-twin/lesson1-intro-to-gazebo.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/lesson1-intro-to-gazebo",
+              "permalink": "/docs/digital-twin/lesson1-intro-to-gazebo",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/lesson1-intro-to-gazebo.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson1-intro-to-gazebo",
+                "title": "Lesson 1: Introduction to Gazebo",
+                "sidebar_label": "Introduction to Gazebo"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/digital-twin/introduction-to-digital-twin"
+              },
+              "next": {
+                "title": "Simulating the World",
+                "permalink": "/docs/digital-twin/lesson2-simulating-the-world"
+              }
+            },
+            {
+              "id": "digital-twin/lesson2-simulating-the-world",
+              "title": "Lesson 2: Simulating the World with SDF",
+              "description": "Introduction to SDF for World Files",
+              "source": "@site/docs/digital-twin/lesson2-simulating-the-world.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/lesson2-simulating-the-world",
+              "permalink": "/docs/digital-twin/lesson2-simulating-the-world",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/lesson2-simulating-the-world.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson2-simulating-the-world",
+                "title": "Lesson 2: Simulating the World with SDF",
+                "sidebar_label": "Simulating the World"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Gazebo",
+                "permalink": "/docs/digital-twin/lesson1-intro-to-gazebo"
+              },
+              "next": {
+                "title": "Simulating Sensors",
+                "permalink": "/docs/digital-twin/lesson3-simulating-sensors"
+              }
+            },
+            {
+              "id": "digital-twin/lesson3-simulating-sensors",
+              "title": "Lesson 3: Simulating Sensors",
+              "description": "Why Simulate Sensors?",
+              "source": "@site/docs/digital-twin/lesson3-simulating-sensors.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/lesson3-simulating-sensors",
+              "permalink": "/docs/digital-twin/lesson3-simulating-sensors",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/lesson3-simulating-sensors.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson3-simulating-sensors",
+                "title": "Lesson 3: Simulating Sensors",
+                "sidebar_label": "Simulating Sensors"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simulating the World",
+                "permalink": "/docs/digital-twin/lesson2-simulating-the-world"
+              },
+              "next": {
+                "title": "Unity for Advanced Simulation",
+                "permalink": "/docs/digital-twin/lesson4-hifi-sim-with-unity"
+              }
+            },
+            {
+              "id": "digital-twin/lesson4-hifi-sim-with-unity",
+              "title": "Lesson 4: High-Fidelity Simulation with Unity",
+              "description": "Beyond Physics: The Need for High-Fidelity",
+              "source": "@site/docs/digital-twin/lesson4-hifi-sim-with-unity.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/lesson4-hifi-sim-with-unity",
+              "permalink": "/docs/digital-twin/lesson4-hifi-sim-with-unity",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/lesson4-hifi-sim-with-unity.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson4-hifi-sim-with-unity",
+                "title": "Lesson 4: High-Fidelity Simulation with Unity",
+                "sidebar_label": "Unity for Advanced Simulation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Simulating Sensors",
+                "permalink": "/docs/digital-twin/lesson3-simulating-sensors"
+              },
+              "next": {
+                "title": "Development Plan: The Digital Twin",
+                "permalink": "/docs/digital-twin/plan"
+              }
+            },
+            {
+              "id": "digital-twin/plan",
+              "title": "Development Plan: The Digital Twin",
+              "description": "Plan for creating the Gazebo & Unity module content and structure.",
+              "source": "@site/docs/digital-twin/plan.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/plan",
+              "permalink": "/docs/digital-twin/plan",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/plan.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "plan",
+                "title": "Development Plan: The Digital Twin",
+                "description": "Plan for creating the Gazebo & Unity module content and structure."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unity for Advanced Simulation",
+                "permalink": "/docs/digital-twin/lesson4-hifi-sim-with-unity"
+              },
+              "next": {
+                "title": "Module Specification: The Digital Twin",
+                "permalink": "/docs/digital-twin/spec"
+              }
+            },
+            {
+              "id": "digital-twin/spec",
+              "title": "Module Specification: The Digital Twin",
+              "description": "Detailed specification for the Gazebo & Unity module.",
+              "source": "@site/docs/digital-twin/spec.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/spec",
+              "permalink": "/docs/digital-twin/spec",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/spec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "spec",
+                "title": "Module Specification: The Digital Twin",
+                "description": "Detailed specification for the Gazebo & Unity module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Development Plan: The Digital Twin",
+                "permalink": "/docs/digital-twin/plan"
+              },
+              "next": {
+                "title": "Task Breakdown: The Digital Twin",
+                "permalink": "/docs/digital-twin/tasks"
+              }
+            },
+            {
+              "id": "digital-twin/tasks",
+              "title": "Task Breakdown: The Digital Twin",
+              "description": "Actionable task list for implementing the Gazebo & Unity module.",
+              "source": "@site/docs/digital-twin/tasks.md",
+              "sourceDirName": "digital-twin",
+              "slug": "/digital-twin/tasks",
+              "permalink": "/docs/digital-twin/tasks",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/digital-twin/tasks.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "tasks",
+                "title": "Task Breakdown: The Digital Twin",
+                "description": "Actionable task list for implementing the Gazebo & Unity module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Specification: The Digital Twin",
+                "permalink": "/docs/digital-twin/spec"
+              },
+              "next": {
+                "title": "Physical AI Book Constitution",
+                "permalink": "/docs/"
+              }
+            },
             {
               "id": "index",
               "title": "Physical AI Book Constitution",
@@ -29,11 +559,15 @@
               "permalink": "/docs/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/index.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/index.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Task Breakdown: The Digital Twin",
+                "permalink": "/docs/digital-twin/tasks"
+              },
               "next": {
                 "title": "Physical AI Book Plan",
                 "permalink": "/docs/plan"
@@ -49,7 +583,7 @@
               "permalink": "/docs/plan",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/plan.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/plan.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -57,6 +591,381 @@
               "previous": {
                 "title": "Physical AI Book Constitution",
                 "permalink": "/docs/"
+              },
+              "next": {
+                "title": "SP Constitution",
+                "permalink": "/docs/sp.constitution"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/constitution",
+              "title": "Module Constitution: The Robotic Nervous System",
+              "description": "Guiding principles for developing the ROS 2 module.",
+              "source": "@site/docs/robotic-nervous-system/constitution.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/constitution",
+              "permalink": "/docs/robotic-nervous-system/constitution",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/constitution.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "constitution",
+                "title": "Module Constitution: The Robotic Nervous System",
+                "description": "Guiding principles for developing the ROS 2 module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/docs/category/module-1-the-robotic-nervous-system-ros-2"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/robotic-nervous-system/introduction-to-rns"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/introduction-to-rns",
+              "title": "Introduction: The Robotic Nervous System",
+              "description": "This module introduces the Robot Operating System (ROS 2), the middleware that acts as the nervous system for modern robots.",
+              "source": "@site/docs/robotic-nervous-system/introduction.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/introduction-to-rns",
+              "permalink": "/docs/robotic-nervous-system/introduction-to-rns",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "introduction-to-rns",
+                "title": "Introduction: The Robotic Nervous System",
+                "sidebar_label": "Introduction"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Constitution: The Robotic Nervous System",
+                "permalink": "/docs/robotic-nervous-system/constitution"
+              },
+              "next": {
+                "title": "Introduction to ROS 2",
+                "permalink": "/docs/robotic-nervous-system/lesson1-intro-to-ros2"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/lesson1-intro-to-ros2",
+              "title": "Lesson 1: What is a Robotic Nervous System?",
+              "description": "The Need for a Nervous System",
+              "source": "@site/docs/robotic-nervous-system/lesson1-intro-to-ros2.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/lesson1-intro-to-ros2",
+              "permalink": "/docs/robotic-nervous-system/lesson1-intro-to-ros2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson1-intro-to-ros2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson1-intro-to-ros2",
+                "title": "Lesson 1: What is a Robotic Nervous System?",
+                "sidebar_label": "Introduction to ROS 2"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/robotic-nervous-system/introduction-to-rns"
+              },
+              "next": {
+                "title": "ROS 2 Fundamentals",
+                "permalink": "/docs/robotic-nervous-system/lesson2-ros2-fundamentals"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/lesson2-ros2-fundamentals",
+              "title": "Lesson 2: ROS 2 Fundamentals in Practice",
+              "description": "In this lesson, we'll move from theory to practice. We'll write Python code to create ROS 2 nodes that communicate using Topics and Services. The Python library we use for this is called rclpy (ROS Client Library for Python).",
+              "source": "@site/docs/robotic-nervous-system/lesson2-ros2-fundamentals.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/lesson2-ros2-fundamentals",
+              "permalink": "/docs/robotic-nervous-system/lesson2-ros2-fundamentals",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson2-ros2-fundamentals.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson2-ros2-fundamentals",
+                "title": "Lesson 2: ROS 2 Fundamentals in Practice",
+                "sidebar_label": "ROS 2 Fundamentals"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to ROS 2",
+                "permalink": "/docs/robotic-nervous-system/lesson1-intro-to-ros2"
+              },
+              "next": {
+                "title": "Python Agents with rclpy",
+                "permalink": "/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/lesson3-python-agents-with-rclpy",
+              "title": "Lesson 3: Bridging Agents to ROS 2",
+              "description": "What is an \"Agent\"?",
+              "source": "@site/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/lesson3-python-agents-with-rclpy",
+              "permalink": "/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson3-python-agents-with-rclpy",
+                "title": "Lesson 3: Bridging Agents to ROS 2",
+                "sidebar_label": "Python Agents with rclpy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ROS 2 Fundamentals",
+                "permalink": "/docs/robotic-nervous-system/lesson2-ros2-fundamentals"
+              },
+              "next": {
+                "title": "URDF for Humanoids",
+                "permalink": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/lesson4-urdf-for-humanoids",
+              "title": "Lesson 4: Describing the Body (URDF)",
+              "description": "What is URDF?",
+              "source": "@site/docs/robotic-nervous-system/lesson4-urdf-for-humanoids.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/lesson4-urdf-for-humanoids",
+              "permalink": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/lesson4-urdf-for-humanoids.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson4-urdf-for-humanoids",
+                "title": "Lesson 4: Describing the Body (URDF)",
+                "sidebar_label": "URDF for Humanoids"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python Agents with rclpy",
+                "permalink": "/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy"
+              },
+              "next": {
+                "title": "Development Plan: The Robotic Nervous System",
+                "permalink": "/docs/robotic-nervous-system/plan"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/plan",
+              "title": "Development Plan: The Robotic Nervous System",
+              "description": "Plan for creating the ROS 2 module content, examples, and structure.",
+              "source": "@site/docs/robotic-nervous-system/plan.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/plan",
+              "permalink": "/docs/robotic-nervous-system/plan",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/plan.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "plan",
+                "title": "Development Plan: The Robotic Nervous System",
+                "description": "Plan for creating the ROS 2 module content, examples, and structure."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "URDF for Humanoids",
+                "permalink": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids"
+              },
+              "next": {
+                "title": "Module Specification: The Robotic Nervous System",
+                "permalink": "/docs/robotic-nervous-system/spec"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/spec",
+              "title": "Module Specification: The Robotic Nervous System",
+              "description": "Detailed specification for the ROS 2 module content.",
+              "source": "@site/docs/robotic-nervous-system/spec.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/spec",
+              "permalink": "/docs/robotic-nervous-system/spec",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/spec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "spec",
+                "title": "Module Specification: The Robotic Nervous System",
+                "description": "Detailed specification for the ROS 2 module content."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Development Plan: The Robotic Nervous System",
+                "permalink": "/docs/robotic-nervous-system/plan"
+              },
+              "next": {
+                "title": "Task Breakdown: The Robotic Nervous System",
+                "permalink": "/docs/robotic-nervous-system/tasks"
+              }
+            },
+            {
+              "id": "robotic-nervous-system/tasks",
+              "title": "Task Breakdown: The Robotic Nervous System",
+              "description": "Actionable task list for implementing the ROS 2 module.",
+              "source": "@site/docs/robotic-nervous-system/tasks.md",
+              "sourceDirName": "robotic-nervous-system",
+              "slug": "/robotic-nervous-system/tasks",
+              "permalink": "/docs/robotic-nervous-system/tasks",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/robotic-nervous-system/tasks.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "tasks",
+                "title": "Task Breakdown: The Robotic Nervous System",
+                "description": "Actionable task list for implementing the ROS 2 module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Specification: The Robotic Nervous System",
+                "permalink": "/docs/robotic-nervous-system/spec"
+              },
+              "next": {
+                "title": "Module Constitution: The AI-Robot Brain",
+                "permalink": "/docs/ai-robot-brain/constitution"
+              }
+            },
+            {
+              "id": "sp.constitution",
+              "title": "SP Constitution",
+              "description": "",
+              "source": "@site/docs/sp.constitution.md",
+              "sourceDirName": ".",
+              "slug": "/sp.constitution",
+              "permalink": "/docs/sp.constitution",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.constitution.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physical AI Book Plan",
+                "permalink": "/docs/plan"
+              },
+              "next": {
+                "title": "Implementation: Module 1",
+                "permalink": "/docs/sp.implement"
+              }
+            },
+            {
+              "id": "sp.implement",
+              "title": "Implementation: Module 1",
+              "description": "This document confirms the implementation of the \"The Robotic Nervous System (ROS 2)\" module as per the specification and plan.",
+              "source": "@site/docs/sp.implement.md",
+              "sourceDirName": ".",
+              "slug": "/sp.implement",
+              "permalink": "/docs/sp.implement",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.implement.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "sp.implement",
+                "title": "Implementation: Module 1"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SP Constitution",
+                "permalink": "/docs/sp.constitution"
+              },
+              "next": {
+                "title": "SP Plan",
+                "permalink": "/docs/sp.plan"
+              }
+            },
+            {
+              "id": "sp.plan",
+              "title": "SP Plan",
+              "description": "Plan Data Model",
+              "source": "@site/docs/sp.plan.md",
+              "sourceDirName": ".",
+              "slug": "/sp.plan",
+              "permalink": "/docs/sp.plan",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.plan.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Implementation: Module 1",
+                "permalink": "/docs/sp.implement"
+              },
+              "next": {
+                "title": "SP Specify",
+                "permalink": "/docs/sp.specify"
+              }
+            },
+            {
+              "id": "sp.specify",
+              "title": "SP Specify",
+              "description": "Integration Specification",
+              "source": "@site/docs/sp.specify.md",
+              "sourceDirName": ".",
+              "slug": "/sp.specify",
+              "permalink": "/docs/sp.specify",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.specify.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SP Plan",
+                "permalink": "/docs/sp.plan"
+              },
+              "next": {
+                "title": "SP Task",
+                "permalink": "/docs/sp.task"
+              }
+            },
+            {
+              "id": "sp.task",
+              "title": "SP Task",
+              "description": "Task Class",
+              "source": "@site/docs/sp.task.md",
+              "sourceDirName": ".",
+              "slug": "/sp.task",
+              "permalink": "/docs/sp.task",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/sp.task.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SP Specify",
+                "permalink": "/docs/sp.specify"
               },
               "next": {
                 "title": "Physical AI Book Specification",
@@ -73,14 +982,14 @@
               "permalink": "/docs/specification",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specification.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/specification.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Physical AI Book Plan",
-                "permalink": "/docs/plan"
+                "title": "SP Task",
+                "permalink": "/docs/sp.task"
               },
               "next": {
                 "title": "Book Outline Plan",
@@ -97,7 +1006,7 @@
               "permalink": "/docs/specs/book-outline/plan",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/book-outline/plan.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/specs/book-outline/plan.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -121,7 +1030,7 @@
               "permalink": "/docs/specs/book-outline/tasks",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/book-outline/tasks.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/specs/book-outline/tasks.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -145,7 +1054,7 @@
               "permalink": "/docs/specs/physical-ai-book/plan",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/physical-ai-book/plan.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/specs/physical-ai-book/plan.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -169,7 +1078,7 @@
               "permalink": "/docs/specs/physical-ai-book/spec",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/physical-ai-book/spec.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/specs/physical-ai-book/spec.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -193,7 +1102,7 @@
               "permalink": "/docs/specs/physical-ai-book/tasks",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/specs/physical-ai-book/tasks.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/specs/physical-ai-book/tasks.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -217,7 +1126,7 @@
               "permalink": "/docs/tasks",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/docs/tasks.md",
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/tasks.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -225,6 +1134,230 @@
               "previous": {
                 "title": "Physical AI Book Tasks",
                 "permalink": "/docs/specs/physical-ai-book/tasks"
+              },
+              "next": {
+                "title": "Module Constitution: Vision-Language-Action (VLA)",
+                "permalink": "/docs/vision-language-action/constitution"
+              }
+            },
+            {
+              "id": "vision-language-action/constitution",
+              "title": "Module Constitution: Vision-Language-Action (VLA)",
+              "description": "Guiding principles for the Vision-Language-Action module.",
+              "source": "@site/docs/vision-language-action/constitution.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/constitution",
+              "permalink": "/docs/vision-language-action/constitution",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/constitution.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "constitution",
+                "title": "Module Constitution: Vision-Language-Action (VLA)",
+                "description": "Guiding principles for the Vision-Language-Action module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physical AI Book Tasks",
+                "permalink": "/docs/tasks"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/vision-language-action/introduction-to-vla"
+              }
+            },
+            {
+              "id": "vision-language-action/introduction-to-vla",
+              "title": "Introduction: Vision-Language-Action (VLA)",
+              "description": "The Ultimate Goal: Conversational Robots",
+              "source": "@site/docs/vision-language-action/introduction.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/introduction-to-vla",
+              "permalink": "/docs/vision-language-action/introduction-to-vla",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "introduction-to-vla",
+                "title": "Introduction: Vision-Language-Action (VLA)",
+                "sidebar_label": "Introduction"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Constitution: Vision-Language-Action (VLA)",
+                "permalink": "/docs/vision-language-action/constitution"
+              },
+              "next": {
+                "title": "Whisper for Voice Commands",
+                "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands"
+              }
+            },
+            {
+              "id": "vision-language-action/lesson1-whisper-voice-commands",
+              "title": "Lesson 1: Voice-to-Action with OpenAI Whisper",
+              "description": "The Gateway: Speech Recognition for Robots",
+              "source": "@site/docs/vision-language-action/lesson1-whisper-voice-commands.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/lesson1-whisper-voice-commands",
+              "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/lesson1-whisper-voice-commands.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson1-whisper-voice-commands",
+                "title": "Lesson 1: Voice-to-Action with OpenAI Whisper",
+                "sidebar_label": "Whisper for Voice Commands"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/vision-language-action/introduction-to-vla"
+              },
+              "next": {
+                "title": "LLM Cognitive Planning",
+                "permalink": "/docs/vision-language-action/lesson2-llm-cognitive-planning"
+              }
+            },
+            {
+              "id": "vision-language-action/lesson2-llm-cognitive-planning",
+              "title": "Lesson 2: Cognitive Planning with LLMs",
+              "description": "The Challenge: From Language to Action",
+              "source": "@site/docs/vision-language-action/lesson2-llm-cognitive-planning.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/lesson2-llm-cognitive-planning",
+              "permalink": "/docs/vision-language-action/lesson2-llm-cognitive-planning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/lesson2-llm-cognitive-planning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson2-llm-cognitive-planning",
+                "title": "Lesson 2: Cognitive Planning with LLMs",
+                "sidebar_label": "LLM Cognitive Planning"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Whisper for Voice Commands",
+                "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands"
+              },
+              "next": {
+                "title": "Capstone: Autonomous Humanoid",
+                "permalink": "/docs/vision-language-action/lesson3-capstone-autonomous-humanoid"
+              }
+            },
+            {
+              "id": "vision-language-action/lesson3-capstone-autonomous-humanoid",
+              "title": "Lesson 3: Capstone Project: The Autonomous Humanoid",
+              "description": "Bringing It All Together: The Autonomous Humanoid",
+              "source": "@site/docs/vision-language-action/lesson3-capstone-autonomous-humanoid.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/lesson3-capstone-autonomous-humanoid",
+              "permalink": "/docs/vision-language-action/lesson3-capstone-autonomous-humanoid",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/lesson3-capstone-autonomous-humanoid.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "lesson3-capstone-autonomous-humanoid",
+                "title": "Lesson 3: Capstone Project: The Autonomous Humanoid",
+                "sidebar_label": "Capstone: Autonomous Humanoid"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LLM Cognitive Planning",
+                "permalink": "/docs/vision-language-action/lesson2-llm-cognitive-planning"
+              },
+              "next": {
+                "title": "Development Plan: Vision-Language-Action (VLA)",
+                "permalink": "/docs/vision-language-action/plan"
+              }
+            },
+            {
+              "id": "vision-language-action/plan",
+              "title": "Development Plan: Vision-Language-Action (VLA)",
+              "description": "Plan for creating the Vision-Language-Action module content.",
+              "source": "@site/docs/vision-language-action/plan.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/plan",
+              "permalink": "/docs/vision-language-action/plan",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/plan.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "plan",
+                "title": "Development Plan: Vision-Language-Action (VLA)",
+                "description": "Plan for creating the Vision-Language-Action module content."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Capstone: Autonomous Humanoid",
+                "permalink": "/docs/vision-language-action/lesson3-capstone-autonomous-humanoid"
+              },
+              "next": {
+                "title": "Module Specification: Vision-Language-Action (VLA)",
+                "permalink": "/docs/vision-language-action/spec"
+              }
+            },
+            {
+              "id": "vision-language-action/spec",
+              "title": "Module Specification: Vision-Language-Action (VLA)",
+              "description": "Detailed specification for the Vision-Language-Action module.",
+              "source": "@site/docs/vision-language-action/spec.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/spec",
+              "permalink": "/docs/vision-language-action/spec",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/spec.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "spec",
+                "title": "Module Specification: Vision-Language-Action (VLA)",
+                "description": "Detailed specification for the Vision-Language-Action module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Development Plan: Vision-Language-Action (VLA)",
+                "permalink": "/docs/vision-language-action/plan"
+              },
+              "next": {
+                "title": "Task Breakdown: Vision-Language-Action (VLA)",
+                "permalink": "/docs/vision-language-action/tasks"
+              }
+            },
+            {
+              "id": "vision-language-action/tasks",
+              "title": "Task Breakdown: Vision-Language-Action (VLA)",
+              "description": "Actionable task list for implementing the Vision-Language-Action module.",
+              "source": "@site/docs/vision-language-action/tasks.md",
+              "sourceDirName": "vision-language-action",
+              "slug": "/vision-language-action/tasks",
+              "permalink": "/docs/vision-language-action/tasks",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/docs/vision-language-action/tasks.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "tasks",
+                "title": "Task Breakdown: Vision-Language-Action (VLA)",
+                "description": "Actionable task list for implementing the Vision-Language-Action module."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module Specification: Vision-Language-Action (VLA)",
+                "permalink": "/docs/vision-language-action/spec"
               }
             }
           ],
@@ -232,12 +1365,188 @@
           "sidebars": {
             "tutorialSidebar": [
               {
+                "type": "category",
+                "label": "Module 1: The Robotic Nervous System (ROS 2)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/constitution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/introduction-to-rns",
+                    "label": "Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/lesson1-intro-to-ros2",
+                    "label": "Introduction to ROS 2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/lesson2-ros2-fundamentals",
+                    "label": "ROS 2 Fundamentals"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/lesson3-python-agents-with-rclpy",
+                    "label": "Python Agents with rclpy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/lesson4-urdf-for-humanoids",
+                    "label": "URDF for Humanoids"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/plan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/spec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "robotic-nervous-system/tasks"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Learn how to use ROS 2 to control a robot.",
+                  "slug": "/category/module-1-the-robotic-nervous-system-ros-2",
+                  "permalink": "/docs/category/module-1-the-robotic-nervous-system-ros-2"
+                }
+              },
+              {
+                "type": "category",
+                "label": "ai-robot-brain",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/constitution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/introduction-to-ai-robot-brain",
+                    "label": "Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/lesson1-isaac-sim",
+                    "label": "Isaac Sim & Synthetic Data"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/lesson2-isaac-ros-perception",
+                    "label": "Isaac ROS Perception"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/lesson3-nav2-humanoid",
+                    "label": "Nav2 Humanoid Navigation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/plan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/spec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ai-robot-brain/tasks"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "chapter2"
+              },
+              {
+                "type": "doc",
+                "id": "chapter3"
+              },
+              {
+                "type": "category",
+                "label": "digital-twin",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/constitution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/introduction-to-digital-twin",
+                    "label": "Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/lesson1-intro-to-gazebo",
+                    "label": "Introduction to Gazebo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/lesson2-simulating-the-world",
+                    "label": "Simulating the World"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/lesson3-simulating-sensors",
+                    "label": "Simulating Sensors"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/lesson4-hifi-sim-with-unity",
+                    "label": "Unity for Advanced Simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/plan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/spec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "digital-twin/tasks"
+                  }
+                ]
+              },
+              {
                 "type": "doc",
                 "id": "index"
               },
               {
                 "type": "doc",
                 "id": "plan"
+              },
+              {
+                "type": "doc",
+                "id": "sp.constitution"
+              },
+              {
+                "type": "doc",
+                "id": "sp.implement"
+              },
+              {
+                "type": "doc",
+                "id": "sp.plan"
+              },
+              {
+                "type": "doc",
+                "id": "sp.specify"
+              },
+              {
+                "type": "doc",
+                "id": "sp.task"
               },
               {
                 "type": "doc",
@@ -290,6 +1599,50 @@
               {
                 "type": "doc",
                 "id": "tasks"
+              },
+              {
+                "type": "category",
+                "label": "vision-language-action",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/constitution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/introduction-to-vla",
+                    "label": "Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/lesson1-whisper-voice-commands",
+                    "label": "Whisper for Voice Commands"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/lesson2-llm-cognitive-planning",
+                    "label": "LLM Cognitive Planning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/lesson3-capstone-autonomous-humanoid",
+                    "label": "Capstone: Autonomous Humanoid"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/plan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/spec"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vision-language-action/tasks"
+                  }
+                ]
               }
             ]
           }

@@ -15,14 +15,5 @@
     "id": "lesson3-capstone-autonomous-humanoid",
     "title": "Lesson 3: Capstone Project: The Autonomous Humanoid",
     "sidebar_label": "Capstone: Autonomous Humanoid"
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "LLM Cognitive Planning",
-    "permalink": "/docs/vision-language-action/lesson2-llm-cognitive-planning"
-  },
-  "next": {
-    "title": "Plan: Physical-AI Book",
-    "permalink": "/docs/specs/book-outline/plan"
   }
 }

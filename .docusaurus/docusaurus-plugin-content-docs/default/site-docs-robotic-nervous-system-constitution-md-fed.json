@@ -15,5 +15,14 @@
     "id": "constitution",
     "title": "Module Constitution: The Robotic Nervous System",
     "description": "Guiding principles for developing the ROS 2 module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Task Breakdown: The Digital Twin",
+    "permalink": "/docs/digital-twin/tasks"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/robotic-nervous-system/introduction-to-rns"
   }
 }

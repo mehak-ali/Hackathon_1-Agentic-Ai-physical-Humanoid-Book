@@ -15,14 +15,5 @@
     "id": "lesson2-llm-cognitive-planning",
     "title": "Lesson 2: Cognitive Planning with LLMs",
     "sidebar_label": "LLM Cognitive Planning"
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Whisper for Voice Commands",
-    "permalink": "/docs/vision-language-action/lesson1-whisper-voice-commands"
-  },
-  "next": {
-    "title": "Capstone: Autonomous Humanoid",
-    "permalink": "/docs/vision-language-action/lesson3-capstone-autonomous-humanoid"
   }
 }

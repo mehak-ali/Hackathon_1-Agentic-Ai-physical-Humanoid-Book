@@ -15,5 +15,14 @@
     "id": "plan",
     "title": "Development Plan: The AI-Robot Brain",
     "description": "Plan for creating the NVIDIA Isaac™ module content and structure."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nav2 Humanoid Navigation",
+    "permalink": "/docs/ai-robot-brain/lesson3-nav2-humanoid"
+  },
+  "next": {
+    "title": "Module Specification: The AI-Robot Brain",
+    "permalink": "/docs/ai-robot-brain/spec"
   }
 }

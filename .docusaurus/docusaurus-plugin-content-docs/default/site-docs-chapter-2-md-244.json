@@ -1,7 +1,7 @@
 {
   "id": "chapter2",
   "title": "Chapter 2 - The Anatomy of a Physical AI",
-  "description": "Welcome to the second chapter! In this chapter, we will explore the key components that make up a physical AI system. We will delve into the hardware and software that enable a machine to perceive, reason, and act in the physical world.",
+  "description": "Welcome to the second chapter! In this chapter, we will explore the key components that make up a physical AI system. We will delve into the hardware that enables a machine to perceive, reason, and act in the physical world.",
   "source": "@site/docs/chapter2.md",
   "sourceDirName": ".",
   "slug": "/chapter2",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Chapter 1: What is Physical AI?",
-    "permalink": "/docs/chapter1"
+    "title": "Physical AI Book Plan",
+    "permalink": "/docs/plan"
   },
   "next": {
     "title": "Chapter 3 - The Mind of a Physical AI",

@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SP Specify",
-    "permalink": "/docs/sp.specify"
+    "title": "Implementation: Module 1",
+    "permalink": "/docs/sp.implement"
   },
   "next": {
-    "title": "SP Task",
-    "permalink": "/docs/sp.task"
+    "title": "SP Specify",
+    "permalink": "/docs/sp.specify"
   }
 }

@@ -7,12 +7,8 @@ export default {
   "title": "Physical Humanoid Book",
   "tagline": "A guide to building a physical humanoid AI",
   "favicon": "img/favicon.ico",
-  "url": "https://hackathon-1-agentic-ai-physical-hum-psi.vercel.app",
+  "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "organizationName": "user",
-  "projectName": "physical-humanoid-book",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -27,11 +23,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\DELL\\Desktop\\hackathon 1 physical-humanoid-book\\my-book\\sidebars.js",
-          "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/"
+          "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/your-username/physical-humanoid-book/tree/main/"
+          "editUrl": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book/tree/main/"
         },
         "theme": {
           "customCss": "C:\\Users\\DELL\\Desktop\\hackathon 1 physical-humanoid-book\\my-book\\src\\css\\custom.css"
@@ -49,8 +45,8 @@ export default {
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "index",
+          "type": "docSidebar",
+          "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Docs"
         },
@@ -60,26 +56,7 @@ export default {
           "position": "left"
         },
         {
-          "type": "dropdown",
-          "label": "Community",
-          "position": "left",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "href": "https://github.com/your-username/physical-humanoid-book",
+          "href": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book",
           "label": "GitHub",
           "position": "right"
         }
@@ -90,15 +67,11 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Learn",
+          "title": "Docs",
           "items": [
             {
-              "label": "Style Guide",
-              "to": "/docs/style-guide"
-            },
-            {
-              "label": "Second Doc",
-              "to": "/docs/doc2"
+              "label": "Docs",
+              "to": "/docs/intro"
             }
           ]
         },
@@ -128,7 +101,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/your-username/physical-humanoid-book"
+              "href": "https://github.com/mehak-ali/Hackathon_1-Agentic-Ai-physical-Humanoid-Book"
             }
           ]
         }
@@ -351,6 +324,11 @@ export default {
         "autoCollapseCategories": false
       }
     },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
+    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -358,6 +336,28 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
+  "onBrokenLinks": "throw",
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
@@ -375,10 +375,18 @@ export default {
   "markdown": {
     "format": "mdx",
     "mermaid": false,
+    "emoji": true,
     "mdx1Compat": {
       "comments": true,
       "admonitions": true,
       "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
     }
   }
 };

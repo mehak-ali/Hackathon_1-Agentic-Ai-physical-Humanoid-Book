@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tasks: Physical AI Book",
+    "title": "Physical AI Book Tasks",
     "permalink": "/docs/tasks"
   },
   "next": {
-    "title": "SP Specify",
-    "permalink": "/docs/sp.specify"
+    "title": "Implementation: Module 1",
+    "permalink": "/docs/sp.implement"
   }
 }

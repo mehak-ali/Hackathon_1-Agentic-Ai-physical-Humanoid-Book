@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SP Task",
-    "permalink": "/docs/sp.task"
+    "title": "SP Constitution",
+    "permalink": "/docs/sp.constitution"
   },
   "next": {
-    "title": "Implementation Plan: Physical AI Book",
-    "permalink": "/docs/specs/physical-ai-book/plan"
+    "title": "SP Plan",
+    "permalink": "/docs/sp.plan"
   }
 }

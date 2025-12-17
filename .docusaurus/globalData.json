@@ -11,6 +11,101 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "ai-robot-brain/constitution",
+              "path": "/docs/ai-robot-brain/constitution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-robot-brain/introduction-to-ai-robot-brain",
+              "path": "/docs/ai-robot-brain/introduction-to-ai-robot-brain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-robot-brain/lesson1-isaac-sim",
+              "path": "/docs/ai-robot-brain/lesson1-isaac-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-robot-brain/lesson2-isaac-ros-perception",
+              "path": "/docs/ai-robot-brain/lesson2-isaac-ros-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-robot-brain/lesson3-nav2-humanoid",
+              "path": "/docs/ai-robot-brain/lesson3-nav2-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-robot-brain/plan",
+              "path": "/docs/ai-robot-brain/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-robot-brain/spec",
+              "path": "/docs/ai-robot-brain/spec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-robot-brain/tasks",
+              "path": "/docs/ai-robot-brain/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter2",
+              "path": "/docs/chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter3",
+              "path": "/docs/chapter3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/constitution",
+              "path": "/docs/digital-twin/constitution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/introduction-to-digital-twin",
+              "path": "/docs/digital-twin/introduction-to-digital-twin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/lesson1-intro-to-gazebo",
+              "path": "/docs/digital-twin/lesson1-intro-to-gazebo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/lesson2-simulating-the-world",
+              "path": "/docs/digital-twin/lesson2-simulating-the-world",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/lesson3-simulating-sensors",
+              "path": "/docs/digital-twin/lesson3-simulating-sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/lesson4-hifi-sim-with-unity",
+              "path": "/docs/digital-twin/lesson4-hifi-sim-with-unity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/plan",
+              "path": "/docs/digital-twin/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/spec",
+              "path": "/docs/digital-twin/spec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "digital-twin/tasks",
+              "path": "/docs/digital-twin/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "index",
               "path": "/docs/",
               "sidebar": "tutorialSidebar"
@@ -21,39 +116,136 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "robotic-nervous-system/constitution",
+              "path": "/docs/robotic-nervous-system/constitution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/introduction-to-rns",
+              "path": "/docs/robotic-nervous-system/introduction-to-rns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/lesson1-intro-to-ros2",
+              "path": "/docs/robotic-nervous-system/lesson1-intro-to-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/lesson2-ros2-fundamentals",
+              "path": "/docs/robotic-nervous-system/lesson2-ros2-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/lesson3-python-agents-with-rclpy",
+              "path": "/docs/robotic-nervous-system/lesson3-python-agents-with-rclpy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/lesson4-urdf-for-humanoids",
+              "path": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/plan",
+              "path": "/docs/robotic-nervous-system/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/spec",
+              "path": "/docs/robotic-nervous-system/spec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotic-nervous-system/tasks",
+              "path": "/docs/robotic-nervous-system/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sp.constitution",
+              "path": "/docs/sp.constitution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sp.implement",
+              "path": "/docs/sp.implement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sp.plan",
+              "path": "/docs/sp.plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sp.specify",
+              "path": "/docs/sp.specify",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sp.task",
+              "path": "/docs/sp.task",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "specification",
               "path": "/docs/specification",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "specs/book-outline/plan",
-              "path": "/docs/specs/book-outline/plan",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/specs/book-outline/plan"
             },
             {
               "id": "specs/book-outline/tasks",
-              "path": "/docs/specs/book-outline/tasks",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/specs/book-outline/tasks"
             },
             {
               "id": "specs/physical-ai-book/plan",
-              "path": "/docs/specs/physical-ai-book/plan",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/specs/physical-ai-book/plan"
             },
             {
               "id": "specs/physical-ai-book/spec",
-              "path": "/docs/specs/physical-ai-book/spec",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/specs/physical-ai-book/spec"
             },
             {
               "id": "specs/physical-ai-book/tasks",
-              "path": "/docs/specs/physical-ai-book/tasks",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/specs/physical-ai-book/tasks"
             },
             {
               "id": "tasks",
               "path": "/docs/tasks",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vision-language-action/constitution",
+              "path": "/docs/vision-language-action/constitution"
+            },
+            {
+              "id": "vision-language-action/introduction-to-vla",
+              "path": "/docs/vision-language-action/introduction-to-vla"
+            },
+            {
+              "id": "vision-language-action/lesson1-whisper-voice-commands",
+              "path": "/docs/vision-language-action/lesson1-whisper-voice-commands"
+            },
+            {
+              "id": "vision-language-action/lesson2-llm-cognitive-planning",
+              "path": "/docs/vision-language-action/lesson2-llm-cognitive-planning"
+            },
+            {
+              "id": "vision-language-action/lesson3-capstone-autonomous-humanoid",
+              "path": "/docs/vision-language-action/lesson3-capstone-autonomous-humanoid"
+            },
+            {
+              "id": "vision-language-action/plan",
+              "path": "/docs/vision-language-action/plan"
+            },
+            {
+              "id": "vision-language-action/spec",
+              "path": "/docs/vision-language-action/spec"
+            },
+            {
+              "id": "vision-language-action/tasks",
+              "path": "/docs/vision-language-action/tasks"
             }
           ],
           "draftIds": [],

@@ -15,5 +15,14 @@
     "id": "tasks",
     "title": "Task Breakdown: The Robotic Nervous System",
     "description": "Actionable task list for implementing the ROS 2 module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module Specification: The Robotic Nervous System",
+    "permalink": "/docs/robotic-nervous-system/spec"
+  },
+  "next": {
+    "title": "Physical AI Book Specification",
+    "permalink": "/docs/specification"
   }
 }

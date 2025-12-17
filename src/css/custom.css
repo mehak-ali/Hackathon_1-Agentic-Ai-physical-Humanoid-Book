@@ -64,3 +64,8 @@
   --ifm-button-background-color: var(--ifm-color-primary);
   --ifm-button-text-color: #fff;
 }
+
+/* Diagnostic CSS to ensure chatbot messages are visible */
+.chatbotContainer .message p {
+  color: black !important;
+}

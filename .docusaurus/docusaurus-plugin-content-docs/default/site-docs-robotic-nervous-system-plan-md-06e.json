@@ -15,5 +15,14 @@
     "id": "plan",
     "title": "Development Plan: The Robotic Nervous System",
     "description": "Plan for creating the ROS 2 module content, examples, and structure."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF for Humanoids",
+    "permalink": "/docs/robotic-nervous-system/lesson4-urdf-for-humanoids"
+  },
+  "next": {
+    "title": "Module Specification: The Robotic Nervous System",
+    "permalink": "/docs/robotic-nervous-system/spec"
   }
 }

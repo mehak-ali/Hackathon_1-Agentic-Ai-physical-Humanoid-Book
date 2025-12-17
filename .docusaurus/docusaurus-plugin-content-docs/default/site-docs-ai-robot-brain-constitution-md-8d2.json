@@ -15,5 +15,14 @@
     "id": "constitution",
     "title": "Module Constitution: The AI-Robot Brain",
     "description": "Guiding principles for the NVIDIA Isaac™ module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3 - The Mind of a Physical AI",
+    "permalink": "/docs/chapter3"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/ai-robot-brain/introduction-to-ai-robot-brain"
   }
 }

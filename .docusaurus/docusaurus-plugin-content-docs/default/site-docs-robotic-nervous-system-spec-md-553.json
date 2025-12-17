@@ -15,5 +15,14 @@
     "id": "spec",
     "title": "Module Specification: The Robotic Nervous System",
     "description": "Detailed specification for the ROS 2 module content."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development Plan: The Robotic Nervous System",
+    "permalink": "/docs/robotic-nervous-system/plan"
+  },
+  "next": {
+    "title": "Task Breakdown: The Robotic Nervous System",
+    "permalink": "/docs/robotic-nervous-system/tasks"
   }
 }

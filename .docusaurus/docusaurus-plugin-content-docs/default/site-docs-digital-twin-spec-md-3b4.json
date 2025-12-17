@@ -15,5 +15,14 @@
     "id": "spec",
     "title": "Module Specification: The Digital Twin",
     "description": "Detailed specification for the Gazebo & Unity module."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development Plan: The Digital Twin",
+    "permalink": "/docs/digital-twin/plan"
+  },
+  "next": {
+    "title": "Task Breakdown: The Digital Twin",
+    "permalink": "/docs/digital-twin/tasks"
   }
 }
